@@ -1,0 +1,15 @@
+carlos salazar
+cosc 4330 2015
+assigment 3
+
+to compile you must use the flag -lpthread:
+	g++ Assignment3.cpp -lpthread
+
+
+to run the executable: 
+./a.out (number_of_clerks) < (name_of_file.txt)
+
+	
+example:
+./a.out 3 < input30.txt
+
